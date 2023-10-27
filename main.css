@@ -1,0 +1,39 @@
+header {
+    width: 100%;
+    background-color: aquamarine;
+    padding: 1.5em;
+}
+
+body {
+    margin: 0;
+}
+
+html {
+    margin: 0;
+}
+
+nav {
+    
+}
+
+img {
+    float: left;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul {
+    margin: 0;
+    display: inline;
+    padding: .5em 2em;
+    margin-left: .5em;
+    
+}
+
+nav ul li a {
+    display: inline;
+    padding: .2em;
+    margin-left: .5em;
+}
